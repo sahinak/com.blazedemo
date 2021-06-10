@@ -1,0 +1,14 @@
+<Environment>
+    <Setup>
+        <IP>blazedemo.com/</IP>
+       
+    </Setup>
+    <Users>
+        <AdminUser>
+            <username>Sahinakausar@gmail.com</username>
+            <pwd></pwd>
+           
+        </AdminUser>
+    </Users>
+    <browser>chrome</browser>
+</Environment>

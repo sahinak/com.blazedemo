@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<root>
+
+
+    <HeaderText>
+        <key>Xpath</key>
+        <value>/html/body/div[2]/div/h1</value>
+    </HeaderText>
+
+    <DepHeaderText>
+        <key>Xpath</key>
+        <value>/html/body/div[3]/h2</value>
+    </DepHeaderText>
+
+    <DestiHeader>
+        <key>Xpath</key>
+        <value>/html/body/div[3]/form/h2</value>
+    </DestiHeader>
+    
+    <DepDropdown>
+        <key>Xpath</key>
+        <value>/html/body/div[3]/form/select[1]</value>
+    </DepDropdown>
+   
+
+    <DestDropdown>
+        <key>Xpath</key>
+        <value>/html/body/div[3]/form/select[2]</value>
+     </DestDropdown>
+
+    <FindFlightButton>
+        <key>Xpath</key>
+        <value>/html/body/div[3]/form/div/input</value>
+    </FindFlightButton>
+
+   <ChooseFirstFlight>
+     <key>Xpath</key>
+        <value>/html/body/div[2]/table/tbody/tr[1]/td[1]/input</value>
+   </ChooseFirstFlight>
+   
+   <ChooseSecondFlight>
+     <key>Xpath</key>
+        <value>/html/body/div[2]/table/tbody/tr[2]/td[1]/input</value>
+   </ChooseSecondFlight>
+   
+    <ChooseThirdFlight>
+     <key>Xpath</key>
+        <value>/html/body/div[2]/table/tbody/tr[3]/td[1]/input</value>
+   </ChooseThirdFlight>
+   
+     <ChooseFourthFlight>
+     <key>Xpath</key>
+        <value>/html/body/div[2]/table/tbody/tr[4]/td[1]/input</value>
+   </ChooseFourthFlight>
+   
+    <ChooseFifthFlight>
+     <key>Xpath</key>
+        <value>/html/body/div[2]/table/tbody/tr[5]/td[1]/input</value>
+   </ChooseFifthFlight>
+
+   <FlightreservedHeader>
+        <key>Xpath</key>
+        <value>/html/body/div[2]/h2</value>
+    </FlightreservedHeader>
+    
+      <PurchageFlightButton>
+        <key>Xpath</key>
+        <value>/html/body/div[2]/form/div[11]/div/input</value>
+    </PurchageFlightButton>
+    
+    <ThankyouHeader>
+        <key>Xpath</key>
+        <value>/html/body/div[2]/div/h1</value>
+    </ThankyouHeader> 
+    
+        
+    <ID>
+        <key>Xpath</key>
+        <value>/html/body/div[2]/div/table/tbody/tr[1]/td[1]</value>
+    </ID> 
+        
+    <IdValue>
+        <key>Xpath</key>
+        <value>/html/body/div[2]/div/table/tbody/tr[1]/td[2]</value>
+    </IdValue> 
+    
+    <NameInput>
+        <key>Xpath</key>
+        <value>//*[@id="inputName"]</value>
+    </NameInput> 
+    
+    <AdressInput>
+        <key>Xpath</key>
+        <value>//*[@id="address"]</value>
+    </AdressInput> 
+    
+     <CityInput>
+        <key>Xpath</key>
+        <value>//*[@id="city"]</value>
+    </CityInput> 
+
+     <StateInput>
+        <key>Xpath</key>
+        <value>//*[@id="state"]</value>
+    </StateInput> 
+    
+     <ZipCodeInput>
+        <key>Xpath</key>
+        <value>//*[@id="zipCode"]</value>
+    </ZipCodeInput> 
+    
+    <CardTypeDropdown>
+        <key>Xpath</key>
+        <value>//*[@id="cardType"]</value>
+    </CardTypeDropdown> 
+    
+    <CreditCardNumber>
+        <key>Xpath</key>
+        <value>//*[@id="creditCardNumber"]</value>
+    </CreditCardNumber> 
+    
+    <CreditardMonth>
+        <key>Xpath</key>
+        <value>//*[@id="creditCardMonth"]</value>
+    </CreditardMonth> 
+    
+    <CreditCardYear>
+        <key>Xpath</key>
+        <value>//*[@id="creditCardYear"]</value>
+    </CreditCardYear> 
+    
+    <NameOnCard>
+        <key>Xpath</key>
+        <value>//*[@id="nameOnCard"]</value>
+    </NameOnCard> 
+    
+    <RememberMeCheckBox>
+        <key>Xpath</key>
+        <value>//*[@id="rememberMe"]</value>
+    </RememberMeCheckBox> 
+
+
+  
+
+</root>
